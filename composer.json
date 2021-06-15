@@ -1,0 +1,22 @@
+{
+    "name": "nextvikas/twitter",
+    "description": "Simple Laravel Twitter Oauth library",
+    "keywords": ["laravel", "twitter", "twitter oauth",  "nextvikas"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vikas Pandey",
+            "email": "svikas.pandey@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nextvikas\\Twitter\\": "src/"
+        }
+    },
+    "require": {
+    },
+    "minimum-stability": "dev"
+}
